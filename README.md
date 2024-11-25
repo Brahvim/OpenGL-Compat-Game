@@ -1,6 +1,6 @@
 # OpenGL-Compat-Game
 
-As unfortunate as it is, I like low-level things, but haven't exactly worked with low-level APIs yet.  
+As unfortunate as it is, *even though I like low-level things,* I haven't exactly worked much with low-level **graphics APIs** yet.  
 This project is me doing *exactly* that, and making sure I actually put my skills to use.  
 Data-oriented design, **simple code**, and a lot of patience.  
 PS I'm *also* using only CLI tools! *No VSCode!*  
